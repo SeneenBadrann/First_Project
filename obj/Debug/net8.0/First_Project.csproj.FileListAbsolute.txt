@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\First_Project\First_Project\bin\Debug\net8.0\First_Project.exe
+C:\Users\lenovo\source\repos\First_Project\First_Project\bin\Debug\net8.0\First_Project.deps.json
+C:\Users\lenovo\source\repos\First_Project\First_Project\bin\Debug\net8.0\First_Project.runtimeconfig.json
+C:\Users\lenovo\source\repos\First_Project\First_Project\bin\Debug\net8.0\First_Project.dll
+C:\Users\lenovo\source\repos\First_Project\First_Project\bin\Debug\net8.0\First_Project.pdb
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.dll
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\refint\First_Project.dll
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.pdb
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\First_Project.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\First_Project\First_Project\obj\Debug\net8.0\ref\First_Project.dll
